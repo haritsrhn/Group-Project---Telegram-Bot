@@ -1339,7 +1339,7 @@ public void onUpdateReceived(Update update) {
     @Override
     public String getBotToken() {
         // Return the token of your bot
-        return "6074674167:AAF6PJeoYz80vCy7oYgo6RBib0uAD9Gyf04";
+        return "xxx";
     }
 
 }
