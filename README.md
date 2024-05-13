@@ -1,7 +1,7 @@
-## Requirements for Group Project
+# Requirements for Group Project
 [Read the instruction](https://github.com/STIW3054-A222/class-activity-activityteam/blob/main/GroupProject.md)
 
-## Group Info:
+# Group Info:
 
 | Photo | Matric Number | Name                            | Phone Number |
 |-------|---------------|-----------------------------------|--------------|
@@ -11,36 +11,36 @@
 |![Screenshot - 10_7_2023 , 1_35_21 PM - Copy (2)](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/9a6d5670-8e26-4268-b1f8-9c38bf887261)| 278415       | Nur Afiqah binti Mohd Amir           | 0184652795   |
 |![Screenshot - 10_7_2023 , 1_35_21 PM - Copy (4)](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/08f868b8-6b36-45fc-ab66-188a6ce3c861)| 278062        | Nur Fatin Nasuha Binti Shamas        | 0124907860   |
 
-## Title of your application (a unique title)
+# Title of the application
 Campus Bites Bot
 
-## Abstract (in 300 words)
+# Abstract
 
-1. Background
+**1. Background**
       
-      CampusBites bot is a user-friendly Telegram bot for UUM students. Cafe_Admin manages cafeterias and menus, while users explore food listings, compare prices, leave comments, and use location links. System_Admin ensures data integrity. Using SQLite, the bot provides efficient data storage.
+CampusBites bot is a user-friendly Telegram bot for UUM students. Cafe_Admin manages cafeterias and menus, while users explore food listings, compare prices, leave comments, and use location links. System_Admin ensures data integrity. Using SQLite, the bot provides efficient data storage.
       
-2. Problem Statement (from an article or newspaper or social media)
+**2. Problem Statement**
      
-      The absence of a food search system in UUM's cafes causes inconvenience and frustration for students and staff. To address this, Campus Bites Bot implemented a Telegram bot system for each cafe. Cafe Admin registers and provides reliable food and cafe information. This convenient tool allows users to easily search for food items, cafe locations, and prices, enhancing efficiency and user satisfaction.
+The absence of a food search system in UUM's cafes causes inconvenience and frustration for students and staff. To address this, Campus Bites Bot implemented a Telegram bot system for each cafe. The Cafe Admin registers and provides reliable food and cafe information. This convenient tool allows users to easily search for food items, cafe locations, and prices, enhancing efficiency and user satisfaction.
    
-4. Main objective
+**4. Main objective**
 
-      The main objective of Campus Bites Bot are:
+The main objectives of Campus Bites Bot are:
       
-      1. To provide registration of User to become Cafe Admin.
-         The function allow User to register as Cafe Admin. After registration, the User need to wait for System Admin approval first before the User is allowed to enter Cafe Admin system.
+- To provide registration of Users to become Cafe Admin.
+   The function allows the User to register as Cafe Admin. After registration, the User needs to wait for System Admin approval first before the User is allowed to enter the Cafe Admin system.
       
-      2. Functionality of Cafe Admin
-      Approved Cafe Admin can enter the system for Cafe Admin so that Cafe Admin can add food information, update added food information, delete food information, view user's food comment, and send daily status message that will be pushed to the users at 8:00 a.m.
+- Functionality of Cafe Admin
+   Approved Cafe Admin can enter the system for Cafe Admin so that Cafe Admin can add food information, update added food information, delete food information, view user's food comments, and send daily status messages that will be pushed to the users at 8:00 a.m.
 
-      3. Functionality of User
-      Users can view food lists from all the cafe available and they can also give comments and ratings of the food they wanted to. The comment can be view by Cafe Admin and all users can view food ratings. Users can also compare food prices from different cafes to select the best one and get food suggestions by the Campus Bites Bot.
+- Functionality of User
+   Users can view food lists from all the cafes available and they can also give comments and ratings of the food they want. The comment can be view by Cafe Admin and all users can view food ratings. Users can also compare food prices from different cafes to select the best one and get food suggestions from the Campus Bites Bot.
 
-      4. Functionality of System Admin
-      System Admin can view all of the Cafe Admin information, including user comments. The System Admin can also delete any registered Cafe Admin if needed.
+- Functionality of System Admin
+   System Admin can view all of the Cafe Admin information, including user comments. The System Admin can also delete any registered Cafe Admin if needed.
 
-5. Methodology
+**5. Methodology**
    
    The methodology for the Campus Bites Bot are:
 
@@ -51,16 +51,16 @@ Campus Bites Bot
 
          2. Design and Architecture:
                - Explain overall system design and architecture.
-               - Justify use of Telegram Bot platform and Java programming language.
+               - Justify the use of the Telegram Bot platform and Java programming language.
                - Present class diagram showing relationships.
 
          3. Implementation:
-               - Describe step-by-step implementation process.
+               - Describe the step-by-step implementation process.
                - Discuss coding practices and design patterns.
                - Address implementation challenges.
 
          4. System Testing:
-               - Explain testing approach for correctness and reliability.
+               - Explain the testing approach for correctness and reliability.
                - Describe test scenarios and cases.
                - Present test results, including bug resolutions.
 
@@ -69,15 +69,15 @@ Campus Bites Bot
                - Assess fulfillment of requirements.
                - Analyze user feedback for effectiveness.
 
-7. Result
+**6. Result**
 
-     The Campus Bites Bot on Telegram offers UUM students a comprehensive solution for finding and accessing food options on campus. Cafe_Admin registers cafeterias with details like contact info, hours, menus with prices and availability. Users can view, compare, comment, and rate food options. Location links aid navigation. System_Admin manages registrations and data integrity in the SQLite database (campusbites.db). This system enhances UUM's user experience, accessibility, and decision-making. 
+The Campus Bites Bot on Telegram offers UUM students a comprehensive solution for finding and accessing food options on campus. Cafe_Admin registers cafeterias with details like contact info, hours, menus with prices, and availability. Users can view, compare, comment, and rate food options. Location links aid navigation. System_Admin manages registrations and data integrity in the SQLite database (campusbites.db). This system enhances UUM's user experience, accessibility, and decision-making. 
    
-8. Conclusion
+**7. Conclusion**
 
-      The Campus Bites Bot is a Food Searching System for UUM students on Telegram. It simplifies finding and comparing food options at campus cafeterias. Cafe_Admin manages cafeteria details, users view food lists, comment, rate, and compare prices. System_Admin oversees operations. This system enhances convenience and accessibility. Future enhancements may include online ordering.
+The Campus Bites Bot is a Food Searching System for UUM students on Telegram. It simplifies finding and comparing food options at campus cafeterias. Cafe_Admin manages cafeteria details, users view food lists, comment, rate, and compare prices. System_Admin oversees operations. This system enhances convenience and accessibility. Future enhancements may include online ordering.
 
-## Flow Diagram of the requirements (MUST be included in your presentation)
+## Flow Diagram of the requirements
 
 ![Screenshot - 10_7_2023 , 7_06_41 PM](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/73435522/174a45c3-c060-425e-88a4-e9de80f08f8a)
 
@@ -93,13 +93,13 @@ Campus Bites Bot
 ![image](https://github.com/STIW3054-A222/groupproject-coding-hamsters/assets/55873376/7f7454d8-2e83-4862-a2b2-cd1db8bd04fd)
 
 ## JavaDoc
-(https://github.com/STIW3054-A222/groupproject-coding-hamsters/tree/master/JavaDoc)
+https://github.com/STIW3054-A222/groupproject-coding-hamsters/tree/master/JavaDoc
 
 ## User manual/guideline for testing the system <br>
 
 To use the Campusbites bot, follow these steps:
 
-1.Start the bot: Open your Telegram app and search for the bot username (A222_STIW3054_CampusBitesBot).<br>
+1.Start the bot: Open your Telegram app and search for the bot username [A222_STIW3054_CampusBitesBot](https://t.me/A222_STIW3054_CampusBitesBot).<br>
 
  <br>2.Initiate the conversation: Send a message "/start" to the bot. <br>
  
@@ -120,7 +120,7 @@ To use the Campusbites bot, follow these steps:
 <br>* Approve Cafe Admin: Send the command "/approveCafeAdmin" to approve a cafe admin.
 <br>* Receive Registration List: The bot will display the cafe admin registration list.
 <br>* Enter Email: Reply with the email address of the cafe admin you want to approve.
-<br>* Approval Process: The bot will move the cafe admin data from registration to approved list.
+<br>* Approval Process: The bot will move the cafe admin data from registration to the approved list.
 
 <br>Cafe Admin 
 <br> Send the command "/cafeAdmin" to begin the process.
@@ -149,7 +149,7 @@ To use the Campusbites bot, follow these steps:
  <br> - "/add" - Add food price.
  <br> - "/update" - Update food price.
  <br> - "/delete" - Delete food price.
- <br> - "/sendStatus" - Send status message.
+ <br> - "/sendStatus" - Send a status message.
  
  <br> Add Food Price:
  <br> *Send the command "/add" to add food prices for your cafe.
@@ -260,9 +260,9 @@ FEEDBACK
 
 
 
-## References (Not less than 20)
+## References
 
-1.	Building a JAVA Telegram Bot and Deploying in heroku. (2022, March 5). DEV Community. https://dev.to/vinuxd/from-building-a-java-telegram-bot-to-deployment-4kc9
+1.	Building a JAVA Telegram Bot and Deploying in Heroku. (2022, March 5). DEV Community. https://dev.to/vinuxd/from-building-a-java-telegram-bot-to-deployment-4kc9
 
 2.	ChatGPT. (n.d.). Food Details by Cafe. https://chat.openai.com
 
@@ -276,9 +276,9 @@ FEEDBACK
 
 7.	How to create Telegram Bot in Java. (2021, November 11). YouTube. https://www.youtube.com/watch?v=XjOnp8TVNSQ
 
-8.	How can I deploy a telegram bot from intellij to heroku? I write the code using Java from a maven project. (2020, May 28). Stack Overflow. https://stackoverflow.com/questions/62067395/how-can-i-deploy-a-telegram-bot-from-intellij-to-heroku-i-write-the-code-using
+8.	How can I deploy a telegram bot from Intellij to Heroku? I write the code using Java from a Maven project. (2020, May 28). Stack Overflow. https://stackoverflow.com/questions/62067395/how-can-i-deploy-a-telegram-bot-from-intellij-to-heroku-i-write-the-code-using
 
-9.	How to send local photo in telegram bot for java. (2018, October 23). Stack Overflow. https://stackoverflow.com/questions/52955352/how-to-send-local-photo-in-telegram-bot-for-java
+9.	How to send local photo in telegram bot for Java. (2018, October 23). Stack Overflow. https://stackoverflow.com/questions/52955352/how-to-send-local-photo-in-telegram-bot-for-java
 
 I.	(2022, June 22). Deploy Java Telegram Bot on Heroku Server. Medium. https://medium.com/@learntodevelop2020/deploy-java-telegram-bot-on-heroku-server-42bfcfc311d3
 
@@ -310,6 +310,6 @@ I.	(2022, June 22). Deploy Java Telegram Bot on Heroku Server. Medium. https://m
 
 23.	SQLite JAVA Tutorial - Tutlane. (n.d.). SQLite JAVA Tutorial - Tutlane. https://www.tutlane.com/tutorial/sqlite/sqlite-java-tutorial
 
-## Youtube Presentation (10%)
+## Youtube Presentation
 https://youtu.be/k0YJl4L5WPo
 
